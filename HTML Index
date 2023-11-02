@@ -1,0 +1,30 @@
+filename :  index.html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            background: rgb(28, 181, 224);
+            background: linear-gradient(265deg, rgba(28, 181, 224, 1) 22%, rgba(0, 0, 70, 1) 73%);
+            color: antiquewhite;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="position">
+        <h2>Welcome to CIIS BOT!</h2> <br><br>
+        <a href="main.html"><button class="button type1">
+                <span class="btn-txt">Get Started</span>
+            </button></a>
+    </div>
+
+</body>
+
+</html>
